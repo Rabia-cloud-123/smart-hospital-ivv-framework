@@ -1,4 +1,4 @@
-# smart-hospital-ivv-framework
+# Smart-Hospital-IVV-Framework
 Independent Verification and Validation (IV&amp;V) framework for an Enterprise Smart Hospital Management System, focusing on software quality assurance, verification, validation, testing, and quality compliance.
 ![Image Name](https://www.keyamedical.com/wp-content/uploads/2021/06/SmartHospital.png)
 # Step 1 – Read Module
