@@ -1,11 +1,12 @@
 # smart-hospital-ivv-framework
 Independent Verification and Validation (IV&amp;V) framework for an Enterprise Smart Hospital Management System, focusing on software quality assurance, verification, validation, testing, and quality compliance.
-Step 1 – Read Module
+![Image Name](https://www.keyamedical.com/wp-content/uploads/2021/06/SmartHospital.png)
+# Step 1 – Read Module
 Module Name
 
-Patient Registration
+# Patient Registration
 
-Module Description
+# Module Description
 
 The Patient Registration module is the entry point of the Smart Hospital Management System (SHMS). It is responsible for collecting, validating, and securely storing patient demographic and identification information before any healthcare service is provided. Every patient must be successfully registered to create a unique patient profile within the system, which serves as the primary reference for all subsequent healthcare activities.
 
